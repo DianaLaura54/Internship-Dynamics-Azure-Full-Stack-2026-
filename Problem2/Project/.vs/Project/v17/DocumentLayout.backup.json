@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AN 4\\Internship-Dynamics-Azure-Full-Stack-2026-\\Problem2\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56072C12-2670-48AB-B0EA-1868ADE7D5D5}|Project\\Project.csproj|e:\\an 4\\internship-dynamics-azure-full-stack-2026-\\problem2\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56072C12-2670-48AB-B0EA-1868ADE7D5D5}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 324,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 76,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AN 4\\Internship-Dynamics-Azure-Full-Stack-2026-\\Problem2\\Project\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Project\\Program.cs",
+              "ToolTip": "E:\\AN 4\\Internship-Dynamics-Azure-Full-Stack-2026-\\Problem2\\Project\\Project\\Program.cs*",
+              "RelativeToolTip": "Project\\Program.cs*",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:18:31.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

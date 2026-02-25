@@ -1,0 +1,14 @@
+E:\AN 4\Internship-Dynamics-Azure-Full-Stack-2026-\Problem2\Project\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\AN 4\Internship-Dynamics-Azure-Full-Stack-2026-\Problem2\Project\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+E:\AN 4\Internship-Dynamics-Azure-Full-Stack-2026-\Problem2\Project\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+E:\AN 4\Internship-Dynamics-Azure-Full-Stack-2026-\Problem2\Project\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+E:\AN 4\Internship-Dynamics-Azure-Full-Stack-2026-\Problem2\Project\Project\bin\Debug\net8.0\Project.exe
+E:\AN 4\Internship-Dynamics-Azure-Full-Stack-2026-\Problem2\Project\Project\bin\Debug\net8.0\Project.deps.json
+E:\AN 4\Internship-Dynamics-Azure-Full-Stack-2026-\Problem2\Project\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+E:\AN 4\Internship-Dynamics-Azure-Full-Stack-2026-\Problem2\Project\Project\bin\Debug\net8.0\Project.dll
+E:\AN 4\Internship-Dynamics-Azure-Full-Stack-2026-\Problem2\Project\Project\bin\Debug\net8.0\Project.pdb
+E:\AN 4\Internship-Dynamics-Azure-Full-Stack-2026-\Problem2\Project\Project\obj\Debug\net8.0\Project.dll
+E:\AN 4\Internship-Dynamics-Azure-Full-Stack-2026-\Problem2\Project\Project\obj\Debug\net8.0\refint\Project.dll
+E:\AN 4\Internship-Dynamics-Azure-Full-Stack-2026-\Problem2\Project\Project\obj\Debug\net8.0\Project.pdb
+E:\AN 4\Internship-Dynamics-Azure-Full-Stack-2026-\Problem2\Project\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+E:\AN 4\Internship-Dynamics-Azure-Full-Stack-2026-\Problem2\Project\Project\obj\Debug\net8.0\ref\Project.dll
