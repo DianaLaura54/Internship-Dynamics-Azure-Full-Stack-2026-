@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace SieMarket
 {
-    // 2.1 Representing Orders and Items
+   
     public class OrderItem
     {
         public string ProductName { get; set; }
@@ -34,7 +34,7 @@ namespace SieMarket
 
     public class StoreManager
     {
-        // 2.2 Calculate Final Price with 10% discount > 500€
+        
         public decimal CalculateOrderTotal(Order order)
         {
             decimal subtotal = order.Items.Sum(i => i.Quantity * i.UnitPrice);
@@ -46,7 +46,7 @@ namespace SieMarket
             return subtotal;
         }
 
-        // 2.3 Find Customer who spent the most
+        
         public string GetTopSpender(List<Order> orders)
         {
             if (orders == null || !orders.Any()) return "No customers found";
@@ -62,7 +62,7 @@ namespace SieMarket
                 .FirstOrDefault()?.Name;
         }
 
-        // 2.4 Bonus: Popular products and total quantities
+        
         public Dictionary<string, int> GetPopularProducts(List<Order> orders)
         {
             return orders
@@ -75,7 +75,7 @@ namespace SieMarket
         }
     }
 
-    // Example Usage
+    
     class Program
     {
         static void Main()
@@ -83,7 +83,7 @@ namespace SieMarket
             var manager = new StoreManager();
 
             var order1 = new Order(1, "Alice");
-            order1.Items.Add(new OrderItem("Laptop", 1, 1200m)); // Qualifies for discount
+            order1.Items.Add(new OrderItem("Laptop", 1, 1200m)); 
 
             var order2 = new Order(2, "Bob");
             order2.Items.Add(new OrderItem("Mouse", 2, 25m));
